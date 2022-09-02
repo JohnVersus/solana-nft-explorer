@@ -8,8 +8,6 @@ You need active web3 provider/wallet only for authnetication. All pages in this 
 
 Please check the [official documentation of Moralis](https://docs.moralis.io/) for all the functionalities of Moralis.
 
-![eth-boilerplate](https://user-images.githubusercontent.com/78314301/186810447-fa66cd80-5bbb-4e41-b29f-862c8cc67d43.gif)
-
 # ⭐️ `Star us`
 
 If this boilerplate helps you build Ethereum dapps faster - please star this project, every star makes us very happy!
